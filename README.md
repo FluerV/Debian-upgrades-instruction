@@ -3,13 +3,13 @@
 It is very important to keep your os up-to-date. Before upgrading your system, it is recommended that you take a few steps. 
 
 
-1. Full Backup.
+1.Full Backup.
 
 Clonezilla provide the most comfortable and reliable way to make full system backup. 
 Here you can find a detailed instruction how to do that: https://clonezilla.org/clonezilla-live-doc.php
 
 
-2. Check the status of all packages.
+2.Check the status of all packages.
 
 Te most reliable way is to type:
 
